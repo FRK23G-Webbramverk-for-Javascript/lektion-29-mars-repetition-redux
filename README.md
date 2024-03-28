@@ -1,4 +1,4 @@
-# Lektion 29 mars: Repetition om Redux
+# Lektion 28 mars: Repetition om Redux
 
 ## Övningar
 
